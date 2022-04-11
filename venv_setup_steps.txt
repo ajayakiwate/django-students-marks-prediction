@@ -1,0 +1,9 @@
+
+>python -m venv mproj_venv
+
+>mproj_venv\Scripts\activate.bat
+
+>pip install -r requirements.txt
+
+(mproj_venv) 
+>python manage.py runserver
